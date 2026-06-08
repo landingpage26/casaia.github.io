@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "src": "assets/img/hero.jpg",
+    "title": "straight to work, jaisalmer",
+    "creator": "nevil zaveri (thank you for 20+M views:)",
+    "creator_url": "https://www.flickr.com/photos/43109416@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/43109416@N00/12626181353",
+    "source": "flickr"
+  },
+  "kitchen": {
+    "src": "assets/img/kitchen.jpg",
+    "title": "Maple Graphite [bedroom]",
+    "creator": "Mirage floors",
+    "creator_url": "https://www.flickr.com/photos/74783045@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/74783045@N00/5622094944",
+    "source": "flickr"
+  }
+}
